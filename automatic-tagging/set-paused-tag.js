@@ -34,7 +34,7 @@ exports.rule = entities.Issue.onChange({
        	});
       
        	if (wasSuccessfullyAdded) {
-         	workflow.message(workflow.i18n('Tag "{0}" is set', TARGET_TAG_NAME));
+         	workflow.message(workflow.i18n('Issue tagged as "{0}"', TARGET_TAG_NAME));
        	}
     }
   },
