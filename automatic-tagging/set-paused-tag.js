@@ -27,7 +27,7 @@ exports.rule = entities.Issue.onChange({
     	if (oldValue && oldState === OLD_STATE_NAME && newState === NEW_STATE_NAME) {
 		
       		var issueHaveTagRework = issue.tags.find(function(tag) {
-        		return tag.name === 'Rework';
+        		return tag.name === 'Verification Failed';
        		});
 		
       		// Dont attach "Paused" and "Rework" at once
