@@ -1,18 +1,18 @@
 /**
- * Убираем тег "Rework" при переходе из состояния "Open" или "In Progress" в любое другое.
+ * Убираем тег "Verification Failed" при переходе из состояния "Open" или "In Progress" в любое другое.
  */
 
 var entities = require('@jetbrains/youtrack-scripting-api/entities');
 var workflow = require('@jetbrains/youtrack-scripting-api/workflow');
 
 exports.rule = entities.Issue.onChange({
-  	title: workflow.i18n('Unset "Rework" tag when issue state changes from "Open" or "In Progress" to any other'),
+  	title: workflow.i18n('Unset "Verification Failed" tag when issue state changes from "Open" or "In Progress" to any other'),
   	guard: function(ctx) {
     	var issue = ctx.issue;
     	return issue.fields.isChanged(ctx.State) && issue.fields.State && !issue.fields.State.isResolved;
   	},
   	action: function(ctx) {
-    	var TAG_TO_UNSET_NAME = 'Rework';
+    	var TAG_TO_UNSET_NAME = 'Verification Failed';
     	var OPEN_STATE = 'Open';
       	var IN_PROGRESS_STATE = 'In Progress';
    		
