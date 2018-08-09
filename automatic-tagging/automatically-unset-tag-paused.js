@@ -35,10 +35,10 @@ exports.rule = entities.Issue.onChange({
           
           	workflow.message(workflow.i18n('Tag "{0}" is removed from issue', TAG_TO_UNSET_NAME));
     	}
-  },
-  requirements: {
-    State: {
-      type: entities.State.fieldType
-    }
-  }
+  	},
+  	requirements: {
+    	State: {
+    	  	type: entities.State.fieldType
+    	}
+  	}
 });
