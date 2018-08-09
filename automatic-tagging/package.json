@@ -1,0 +1,12 @@
+{
+  "name" : "automatic-tagging",
+  "title" : "Automatic Tagging",
+  "description" : null,
+  "dependencies" : {
+    "@jetbrains/youtrack-scripting-api" : "^2018.2.44329"
+  },
+  "youtrack" : {
+    "autoAttached" : false,
+    "readOnly" : false
+  }
+}
