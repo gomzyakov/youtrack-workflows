@@ -1,4 +1,15 @@
 <instance>
+    <bundle restPath="/admin/customfield/stateBundle/">
+        <values>
+            <value>Open</value>
+            <value>In Progress</value>
+            <value>To Verify</value>
+            <value>Done</value>
+            <value>Duplicate</value>
+            <value>Declined</value>
+        </values>
+        <name>91-22-1533826158780</name>
+    </bundle>
     <bundle restPath="/admin/customfield/bundle/">
         <values>
             <value>Show-stopper</value>
@@ -7,31 +18,81 @@
             <value>Normal</value>
             <value>Minor</value>
         </values>
-        <name>82-21-1533701115520</name>
+        <name>91-25-1533826229420</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/bundle/">
+        <values>
+            <value>Bug</value>
+            <value>Feature</value>
+            <value>Task</value>
+            <value>Epic</value>
+        </values>
+        <name>91-40-1529920882762</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/stateBundle/">
+        <values>
+            <value>Open</value>
+            <value>In Progress</value>
+            <value>To be discussed</value>
+            <value>Reopened</value>
+            <value>Draft</value>
+            <value>To Verify</value>
+            <value>Done</value>
+            <value>Declined</value>
+        </values>
+        <name>91-41-1529920977702</name>
     </bundle>
     <bundle restPath="/admin/customfield/versionBundle/">
         <values/>
-        <name>Octo Customer Development: Версии</name>
+        <name>ECC DEV: Sprints</name>
     </bundle>
-    <bundle restPath="/admin/customfield/ownedFieldBundle/">
-        <values/>
-        <name>Octo Customer Development: Подсистема</name>
+    <bundle restPath="/admin/customfield/stateBundle/">
+        <values>
+            <value>Open</value>
+            <value>In Progress</value>
+            <value>To Verify</value>
+            <value>Done</value>
+            <value>Duplicate</value>
+        </values>
+        <name>ECC DEVStatef8576601-f04c-45f1-b0fc-0cdabde304bc</name>
     </bundle>
-    <bundle restPath="/admin/customfield/ownedFieldBundle/">
-        <values/>
-        <name>Octo Marketing: Subsystems</name>
-    </bundle>
-    <bundle restPath="/admin/customfield/versionBundle/">
-        <values/>
-        <name>Octo Marketing: Versions</name>
+    <bundle restPath="/admin/customfield/bundle/">
+        <values>
+            <value>Bug</value>
+            <value>Epic</value>
+            <value>User Story</value>
+            <value>Task</value>
+        </values>
+        <name>ECC DEVTypee8b9e462-ffe2-4671-bb1b-f43abfee5181</name>
     </bundle>
     <bundle restPath="/admin/customfield/versionBundle/">
         <values>
-            <value>2018 Jul 1</value>
-            <value>2018 Jul 2</value>
-            <value>2018 Jul 3</value>
+            <value>Спринт 1</value>
+            <value>Неделя 10</value>
+            <value>Неделя 11</value>
+            <value>Неделя 12</value>
+            <value>Неделя 13</value>
+            <value>2018.04 [02-06]</value>
+            <value>2018.04 [09-13]</value>
+            <value>2018.04 [16-20]</value>
+            <value>2018.04 [23-28]</value>
+            <value>2018.05 [03-11]</value>
+            <value>2018.05 [14-18]</value>
+            <value>2018.05 [21-25]</value>
+            <value>2018.05 [28-01]</value>
+            <value>2018.06 [04-09]</value>
+            <value>2018.06 [13-15]</value>
+            <value>2018.06 [18-22]</value>
+            <value>2018.06 [25-29]</value>
+            <value>2018.07 [02-06]</value>
+            <value>2018.07 [09-13]</value>
+            <value>2018.07 [16-20]</value>
+            <value>2018.07 [23-27]</value>
+            <value>2018.07 [30-03]</value>
+            <value>2018.08 (6-10)</value>
+            <value>2018.08 [13-17]</value>
         </values>
-        <name>Octo Web: Sprints</name>
+        <name>ECC: Sprints</name>
     </bundle>
     <bundle restPath="/admin/customfield/stateBundle/">
         <values>
@@ -42,17 +103,35 @@
             <value>Duplicate</value>
             <value>Declined</value>
         </values>
-        <name>Octo WebState1469a09b-6647-4516-8897-27198f5d0104</name>
+        <name>ECCState620cfe01-f41b-4d12-ba59-1a9cf20ce0c3</name>
     </bundle>
     <bundle restPath="/admin/customfield/bundle/">
         <values>
             <value>Bug</value>
-            <value>Task</value>
-            <value>User Story</value>
-            <value>Feature</value>
             <value>Epic</value>
+            <value>User Story</value>
+            <value>Task</value>
+            <value>Feature</value>
         </values>
-        <name>Octo WebType6a1cafe9-1250-4722-8940-c6e75884c7bf</name>
+        <name>ECCTypef1554740-19a0-44c8-82e7-c409b7c4a5a8</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/bundle/">
+        <values>
+            <value>Blocked</value>
+            <value>Ready to pull</value>
+        </values>
+        <name>IPTVKanban Stateac7b1d59-d5b9-4d67-84b8-b4ce54b1ee8c</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/stateBundle/">
+        <values>
+            <value>Backlog</value>
+            <value>Develop</value>
+            <value>Review</value>
+            <value>Test</value>
+            <value>Staging</value>
+            <value>Done</value>
+        </values>
+        <name>IPTVStage2b27ae37-320f-404f-aaf9-ff942398b692</name>
     </bundle>
     <bundle restPath="/admin/customfield/bundle/">
         <values>
@@ -73,11 +152,11 @@
             <value>Reopened</value>
             <value>Can't Reproduce</value>
             <value>Duplicate</value>
-            <value>Test</value>
+            <value>Fixed</value>
             <value>Won't fix</value>
             <value>Incomplete</value>
             <value>Obsolete</value>
-            <value>Done</value>
+            <value>Verified</value>
         </values>
         <name>States</name>
     </bundle>
@@ -91,13 +170,104 @@
             <value>Usability Problem</value>
             <value>Performance Problem</value>
             <value>Epic</value>
-            <value>User Story</value>
         </values>
         <name>Types</name>
     </bundle>
     <bundle restPath="/admin/customfield/versionBundle/">
         <values/>
         <name>Versions</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/stateBundle/">
+        <values>
+            <value>Backlog</value>
+            <value>Develop</value>
+            <value>Review</value>
+            <value>Test</value>
+            <value>Staging</value>
+            <value>Done</value>
+        </values>
+        <name>ВАТС: Stages</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/bundle/">
+        <values>
+            <value>Bug</value>
+            <value>Epic</value>
+            <value>Task</value>
+            <value>Exception</value>
+            <value>Feature</value>
+            <value>Cosmetics</value>
+            <value>Performance Problem</value>
+            <value>Usability Problem</value>
+        </values>
+        <name>ВАТСType01222c92-663a-44ff-ad3a-7766dab6d258</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/ownedFieldBundle/">
+        <values>
+            <value>Backend</value>
+            <value>Frontend</value>
+            <value>Android</value>
+            <value>IOS</value>
+        </values>
+        <name>Видеонаблюдение: Subsystems</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/bundle/">
+        <values>
+            <value>Blocked</value>
+            <value>Ready to pull</value>
+        </values>
+        <name>ВидеонаблюдениеKanban State21149d7f-05f0-4fff-8af2-8f3685592709</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/stateBundle/">
+        <values>
+            <value>Backlog</value>
+            <value>Develop</value>
+            <value>Review</value>
+            <value>Test</value>
+            <value>Staging</value>
+            <value>Done</value>
+        </values>
+        <name>ВидеонаблюдениеStageae75bd30-fb34-4396-90b4-70102dc93920</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/versionBundle/">
+        <values>
+            <value>Неделя 11</value>
+            <value>Неделя 12</value>
+            <value>Неделя 13</value>
+            <value>2018.04 [02-06]</value>
+            <value>2018.04 [09-13]</value>
+            <value>2018.04 [16-20]</value>
+            <value>2018.04 [23-28]</value>
+            <value>2018.05 [03-11]</value>
+            <value>2018.05 [14-18]</value>
+            <value>2018.05 [21-25]</value>
+            <value>2018.05 [28-01]</value>
+            <value>2018.06 [04-09]</value>
+            <value>2018.06 [13-15]</value>
+            <value>2018.06 [18-22]</value>
+            <value>2018.06 [25-29]</value>
+            <value>2018.07 [02-06]</value>
+            <value>2018.07 [09-13]</value>
+            <value>2018.07 [16-20]</value>
+            <value>2018.07 [23-27]</value>
+            <value>2018.07 [30-03]</value>
+        </values>
+        <name>ТСЖ-онлайн: Sprintses</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/ownedFieldBundle/">
+        <values/>
+        <name>ТСЖ-онлайн: Subsystems</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/versionBundle/">
+        <values/>
+        <name>ТСЖ-онлайн: Versions</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/ownedFieldBundle/">
+        <values/>
+        <name>Техотдел: Subsystems</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/versionBundle/">
+        <values/>
+        <name>Техотдел: Versions</name>
     </bundle>
     <type xsi:type="primitiveType" name="blob" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
     <type xsi:type="primitiveType" name="boolean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
@@ -2693,24 +2863,44 @@
             </member>
         </members>
     </type>
-    <project name="Octo Web">
-        <field xsi:type="BundleCustomField" bundle="Octo WebState1469a09b-6647-4516-8897-27198f5d0104" name="State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <project name="ECC DEV">
+        <field xsi:type="BundleCustomField" bundle="ECC DEVStatef8576601-f04c-45f1-b0fc-0cdabde304bc" name="State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
             <typeRef type="State">
                 <cardinality name="0..1"/>
             </typeRef>
         </field>
-        <field xsi:type="BundleCustomField" bundle="Octo Web: Sprints" name="Sprints" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <field xsi:type="BundleCustomField" bundle="ECC DEV: Sprints" name="Sprints" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
             <typeRef type="ProjectVersion">
                 <cardinality name="0..*"/>
             </typeRef>
         </field>
-        <field xsi:type="BundleCustomField" bundle="Octo WebType6a1cafe9-1250-4722-8940-c6e75884c7bf" name="Type" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <field xsi:type="BundleCustomField" bundle="ECC DEVTypee8b9e462-ffe2-4671-bb1b-f43abfee5181" name="Type" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
             <typeRef type="EnumField">
                 <cardinality name="0..1"/>
             </typeRef>
         </field>
-        <field xsi:type="BundleCustomField" bundle="82-21-1533701115520" name="Priority" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <field xsi:type="BundleCustomField" bundle="Priorities" name="Priority" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
             <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Ideal days" readOnly="false">
+            <typeRef type="int">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Story points" readOnly="false">
+            <typeRef type="int">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Создатель" readOnly="false">
+            <typeRef type="string">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="emp_id" readOnly="false">
+            <typeRef type="int">
                 <cardinality name="0..1"/>
             </typeRef>
         </field>
@@ -2719,8 +2909,137 @@
                 <cardinality name="0..1"/>
             </typeRef>
         </field>
+        <link name="Relates" outward="relates to"/>
+        <link name="Depend" outward="is required for" inward="depends on"/>
+        <link name="Duplicate" outward="is duplicated by" inward="duplicates"/>
+        <link name="Subtask" outward="parent for" inward="subtask of"/>
+        <link name="Тип задачи" outward="Исход"/>
+    </project>
+    <project name="ECC">
+        <field xsi:type="BundleCustomField" bundle="91-22-1533826158780" name="State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="State">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ECC: Sprints" name="Sprints" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="ProjectVersion">
+                <cardinality name="0..*"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ECCTypef1554740-19a0-44c8-82e7-c409b7c4a5a8" name="Type" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="91-25-1533826229420" name="Priority" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Создатель" readOnly="false">
+            <typeRef type="string">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="emp_id" readOnly="false">
+            <typeRef type="int">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Start Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Due Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
         <field name="Timer time" readOnly="false">
             <typeRef type="dateTime">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Assignee" readOnly="false">
+            <typeRef type="User">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Estimation" readOnly="false">
+            <typeRef type="period">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Spent time" readOnly="false">
+            <typeRef type="period">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <link name="Relates" outward="relates to"/>
+        <link name="Depend" outward="is required for" inward="depends on"/>
+        <link name="Duplicate" outward="is duplicated by" inward="duplicates"/>
+        <link name="Subtask" outward="parent for" inward="subtask of"/>
+        <link name="Тип задачи" outward="Исход"/>
+    </project>
+    <project name="ТСЖ-онлайн">
+        <field xsi:type="BundleCustomField" bundle="ТСЖ-онлайн: Subsystems" name="Subsystem" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="OwnedField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Priorities" name="Priority" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Types" name="Type" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ECCState620cfe01-f41b-4d12-ba59-1a9cf20ce0c3" name="State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="State">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ТСЖ-онлайн: Versions" name="Fix versions" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="ProjectVersion">
+                <cardinality name="0..*"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ТСЖ-онлайн: Versions" name="Affected versions" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="ProjectVersion">
+                <cardinality name="0..*"/>
+            </typeRef>
+        </field>
+        <field name="Fixed in build" readOnly="false">
+            <typeRef type="Build">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ТСЖ-онлайн: Sprintses" name="Sprints" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="ProjectVersion">
+                <cardinality name="0..*"/>
+            </typeRef>
+        </field>
+        <field name="Создатель" readOnly="false">
+            <typeRef type="string">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Due Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Start Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Assignee" readOnly="false">
+            <typeRef type="User">
                 <cardinality name="0..1"/>
             </typeRef>
         </field>
@@ -2738,10 +3057,120 @@
         <link name="Depend" outward="is required for" inward="depends on"/>
         <link name="Duplicate" outward="is duplicated by" inward="duplicates"/>
         <link name="Subtask" outward="parent for" inward="subtask of"/>
+        <link name="Тип задачи" outward="Исход"/>
     </project>
-    <project name="Octo Customer Development">
-        <field xsi:type="BundleCustomField" bundle="Octo Customer Development: Подсистема" name="Subsystem" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <project name="ВАТС">
+        <field xsi:type="BundleCustomField" bundle="ВАТСType01222c92-663a-44ff-ad3a-7766dab6d258" name="Type" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Priorities" name="Priority" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ВАТС: Stages" name="Stage" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="State">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Due Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Start Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Assignee" readOnly="false">
+            <typeRef type="User">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Estimation" readOnly="false">
+            <typeRef type="period">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Spent time" readOnly="false">
+            <typeRef type="period">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <link name="Relates" outward="relates to"/>
+        <link name="Depend" outward="is required for" inward="depends on"/>
+        <link name="Duplicate" outward="is duplicated by" inward="duplicates"/>
+        <link name="Subtask" outward="parent for" inward="subtask of"/>
+        <link name="Тип задачи" outward="Исход"/>
+    </project>
+    <project name="Техотдел">
+        <field xsi:type="BundleCustomField" bundle="Техотдел: Subsystems" name="Subsystem" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
             <typeRef type="OwnedField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Priorities" name="Priority" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="91-40-1529920882762" name="Type" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="91-41-1529920977702" name="State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="State">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Техотдел: Versions" name="Fix versions" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="ProjectVersion">
+                <cardinality name="0..*"/>
+            </typeRef>
+        </field>
+        <field name="Due Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Start Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Assignee" readOnly="false">
+            <typeRef type="User">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Estimation" readOnly="false">
+            <typeRef type="period">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Spent time" readOnly="false">
+            <typeRef type="period">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <link name="Relates" outward="relates to"/>
+        <link name="Depend" outward="is required for" inward="depends on"/>
+        <link name="Duplicate" outward="is duplicated by" inward="duplicates"/>
+        <link name="Subtask" outward="parent for" inward="subtask of"/>
+        <link name="Тип задачи" outward="Исход"/>
+    </project>
+    <project name="Видеонаблюдение">
+        <field xsi:type="BundleCustomField" bundle="ВидеонаблюдениеKanban State21149d7f-05f0-4fff-8af2-8f3685592709" name="Kanban State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ВидеонаблюдениеStageae75bd30-fb34-4396-90b4-70102dc93920" name="Stage" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="State">
                 <cardinality name="0..1"/>
             </typeRef>
         </field>
@@ -2755,23 +3184,8 @@
                 <cardinality name="0..1"/>
             </typeRef>
         </field>
-        <field xsi:type="BundleCustomField" bundle="States" name="State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-            <typeRef type="State">
-                <cardinality name="0..1"/>
-            </typeRef>
-        </field>
-        <field xsi:type="BundleCustomField" bundle="Octo Customer Development: Версии" name="Fix versions" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-            <typeRef type="ProjectVersion">
-                <cardinality name="0..*"/>
-            </typeRef>
-        </field>
-        <field xsi:type="BundleCustomField" bundle="Octo Customer Development: Версии" name="Affected versions" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-            <typeRef type="ProjectVersion">
-                <cardinality name="0..*"/>
-            </typeRef>
-        </field>
-        <field name="Fixed in build" readOnly="false">
-            <typeRef type="Build">
+        <field xsi:type="BundleCustomField" bundle="Видеонаблюдение: Subsystems" name="Subsystem" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="OwnedField">
                 <cardinality name="0..1"/>
             </typeRef>
         </field>
@@ -2784,10 +3198,16 @@
         <link name="Depend" outward="is required for" inward="depends on"/>
         <link name="Duplicate" outward="is duplicated by" inward="duplicates"/>
         <link name="Subtask" outward="parent for" inward="subtask of"/>
+        <link name="Тип задачи" outward="Исход"/>
     </project>
-    <project name="Octo Marketing">
-        <field xsi:type="BundleCustomField" bundle="Octo Marketing: Subsystems" name="Subsystem" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-            <typeRef type="OwnedField">
+    <project name="IPTV">
+        <field xsi:type="BundleCustomField" bundle="IPTVKanban Stateac7b1d59-d5b9-4d67-84b8-b4ce54b1ee8c" name="Kanban State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="IPTVStage2b27ae37-320f-404f-aaf9-ff942398b692" name="Stage" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="State">
                 <cardinality name="0..1"/>
             </typeRef>
         </field>
@@ -2796,31 +3216,6 @@
                 <cardinality name="0..1"/>
             </typeRef>
         </field>
-        <field xsi:type="BundleCustomField" bundle="Types" name="Type" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-            <typeRef type="EnumField">
-                <cardinality name="0..1"/>
-            </typeRef>
-        </field>
-        <field xsi:type="BundleCustomField" bundle="States" name="State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-            <typeRef type="State">
-                <cardinality name="0..1"/>
-            </typeRef>
-        </field>
-        <field xsi:type="BundleCustomField" bundle="Octo Marketing: Versions" name="Fix versions" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-            <typeRef type="ProjectVersion">
-                <cardinality name="0..*"/>
-            </typeRef>
-        </field>
-        <field xsi:type="BundleCustomField" bundle="Octo Marketing: Versions" name="Affected versions" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-            <typeRef type="ProjectVersion">
-                <cardinality name="0..*"/>
-            </typeRef>
-        </field>
-        <field name="Fixed in build" readOnly="false">
-            <typeRef type="Build">
-                <cardinality name="0..1"/>
-            </typeRef>
-        </field>
         <field name="Assignee" readOnly="false">
             <typeRef type="User">
                 <cardinality name="0..1"/>
@@ -2830,6 +3225,7 @@
         <link name="Depend" outward="is required for" inward="depends on"/>
         <link name="Duplicate" outward="is duplicated by" inward="duplicates"/>
         <link name="Subtask" outward="parent for" inward="subtask of"/>
+        <link name="Тип задачи" outward="Исход"/>
     </project>
     <fieldPrototypes>
         <field xsi:type="BundleCustomField" bundle="Versions" name="Affected versions" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -2844,6 +3240,11 @@
         </field>
         <field name="Due Date" readOnly="false">
             <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="emp_id" readOnly="false">
+            <typeRef type="int">
                 <cardinality name="0..1"/>
             </typeRef>
         </field>
@@ -2867,6 +3268,11 @@
                 <cardinality name="0..1"/>
             </typeRef>
         </field>
+        <field name="Kanban State" readOnly="false">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
         <field xsi:type="BundleCustomField" bundle="Priorities" name="Priority" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
             <typeRef type="EnumField">
                 <cardinality name="0..1"/>
@@ -2880,6 +3286,16 @@
         <field name="Sprints" readOnly="false">
             <typeRef type="ProjectVersion">
                 <cardinality name="0..*"/>
+            </typeRef>
+        </field>
+        <field name="Stage" readOnly="false">
+            <typeRef type="State">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Start Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
             </typeRef>
         </field>
         <field xsi:type="BundleCustomField" bundle="States" name="State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -2907,20 +3323,30 @@
                 <cardinality name="0..1"/>
             </typeRef>
         </field>
+        <field name="Создатель" readOnly="false">
+            <typeRef type="string">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
         <link name="Relates" outward="relates to"/>
         <link name="Depend" outward="is required for" inward="depends on"/>
         <link name="Duplicate" outward="is duplicated by" inward="duplicates"/>
         <link name="Subtask" outward="parent for" inward="subtask of"/>
+        <link name="Тип задачи" outward="Исход"/>
     </fieldPrototypes>
     <group name="All Users"/>
-    <group name="Ask Team"/>
-    <group name="Ask-team"/>
-    <group name="Octo Customer Development Team"/>
-    <group name="Octo Marketing Team"/>
-    <group name="Octo Web Team"/>
-    <group name="Q Web-team"/>
-    <group name="Qusoc Marketing-team"/>
-    <group name="Qusoc Web Team"/>
+    <group name="CCTV group"/>
+    <group name="ECC DEV Team"/>
+    <group name="ECC DEV Team Group"/>
+    <group name="ECC Team"/>
+    <group name="IPTV Team"/>
     <group name="Registered Users"/>
     <group name="Reporters"/>
+    <group name="t Team"/>
+    <group name="TSG Group"/>
+    <group name="ВАТС Team"/>
+    <group name="Видеонаблюдение Team"/>
+    <group name="ЕСС Team"/>
+    <group name="Техотдел Team"/>
+    <group name="ТСЖ-онлайн Team"/>
 </instance>
