@@ -1,0 +1,3352 @@
+<instance>
+    <bundle restPath="/admin/customfield/stateBundle/">
+        <values>
+            <value>Open</value>
+            <value>In Progress</value>
+            <value>To Verify</value>
+            <value>Done</value>
+            <value>Duplicate</value>
+            <value>Declined</value>
+        </values>
+        <name>91-22-1533826158780</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/bundle/">
+        <values>
+            <value>Show-stopper</value>
+            <value>Critical</value>
+            <value>Major</value>
+            <value>Normal</value>
+            <value>Minor</value>
+        </values>
+        <name>91-25-1533826229420</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/bundle/">
+        <values>
+            <value>Bug</value>
+            <value>Feature</value>
+            <value>Task</value>
+            <value>Epic</value>
+        </values>
+        <name>91-40-1529920882762</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/stateBundle/">
+        <values>
+            <value>Open</value>
+            <value>In Progress</value>
+            <value>To be discussed</value>
+            <value>Reopened</value>
+            <value>Draft</value>
+            <value>To Verify</value>
+            <value>Done</value>
+            <value>Declined</value>
+        </values>
+        <name>91-41-1529920977702</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/versionBundle/">
+        <values/>
+        <name>ECC DEV: Sprints</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/stateBundle/">
+        <values>
+            <value>Open</value>
+            <value>In Progress</value>
+            <value>To Verify</value>
+            <value>Done</value>
+            <value>Duplicate</value>
+        </values>
+        <name>ECC DEVStatef8576601-f04c-45f1-b0fc-0cdabde304bc</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/bundle/">
+        <values>
+            <value>Bug</value>
+            <value>Epic</value>
+            <value>User Story</value>
+            <value>Task</value>
+        </values>
+        <name>ECC DEVTypee8b9e462-ffe2-4671-bb1b-f43abfee5181</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/versionBundle/">
+        <values>
+            <value>Спринт 1</value>
+            <value>Неделя 10</value>
+            <value>Неделя 11</value>
+            <value>Неделя 12</value>
+            <value>Неделя 13</value>
+            <value>2018.04 [02-06]</value>
+            <value>2018.04 [09-13]</value>
+            <value>2018.04 [16-20]</value>
+            <value>2018.04 [23-28]</value>
+            <value>2018.05 [03-11]</value>
+            <value>2018.05 [14-18]</value>
+            <value>2018.05 [21-25]</value>
+            <value>2018.05 [28-01]</value>
+            <value>2018.06 [04-09]</value>
+            <value>2018.06 [13-15]</value>
+            <value>2018.06 [18-22]</value>
+            <value>2018.06 [25-29]</value>
+            <value>2018.07 [02-06]</value>
+            <value>2018.07 [09-13]</value>
+            <value>2018.07 [16-20]</value>
+            <value>2018.07 [23-27]</value>
+            <value>2018.07 [30-03]</value>
+            <value>2018.08 (6-10)</value>
+            <value>2018.08 [13-17]</value>
+        </values>
+        <name>ECC: Sprints</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/stateBundle/">
+        <values>
+            <value>Open</value>
+            <value>In Progress</value>
+            <value>To Verify</value>
+            <value>Done</value>
+            <value>Duplicate</value>
+            <value>Declined</value>
+        </values>
+        <name>ECCState620cfe01-f41b-4d12-ba59-1a9cf20ce0c3</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/bundle/">
+        <values>
+            <value>Bug</value>
+            <value>Epic</value>
+            <value>User Story</value>
+            <value>Task</value>
+            <value>Feature</value>
+        </values>
+        <name>ECCTypef1554740-19a0-44c8-82e7-c409b7c4a5a8</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/bundle/">
+        <values>
+            <value>Blocked</value>
+            <value>Ready to pull</value>
+        </values>
+        <name>IPTVKanban Stateac7b1d59-d5b9-4d67-84b8-b4ce54b1ee8c</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/stateBundle/">
+        <values>
+            <value>Backlog</value>
+            <value>Develop</value>
+            <value>Review</value>
+            <value>Test</value>
+            <value>Staging</value>
+            <value>Done</value>
+        </values>
+        <name>IPTVStage2b27ae37-320f-404f-aaf9-ff942398b692</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/bundle/">
+        <values>
+            <value>Minor</value>
+            <value>Normal</value>
+            <value>Major</value>
+            <value>Critical</value>
+            <value>Show-stopper</value>
+        </values>
+        <name>Priorities</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/stateBundle/">
+        <values>
+            <value>Submitted</value>
+            <value>Open</value>
+            <value>In Progress</value>
+            <value>To be discussed</value>
+            <value>Reopened</value>
+            <value>Can't Reproduce</value>
+            <value>Duplicate</value>
+            <value>Fixed</value>
+            <value>Won't fix</value>
+            <value>Incomplete</value>
+            <value>Obsolete</value>
+            <value>Verified</value>
+        </values>
+        <name>States</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/bundle/">
+        <values>
+            <value>Bug</value>
+            <value>Cosmetics</value>
+            <value>Exception</value>
+            <value>Feature</value>
+            <value>Task</value>
+            <value>Usability Problem</value>
+            <value>Performance Problem</value>
+            <value>Epic</value>
+        </values>
+        <name>Types</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/versionBundle/">
+        <values/>
+        <name>Versions</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/stateBundle/">
+        <values>
+            <value>Backlog</value>
+            <value>Develop</value>
+            <value>Review</value>
+            <value>Test</value>
+            <value>Staging</value>
+            <value>Done</value>
+        </values>
+        <name>ВАТС: Stages</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/bundle/">
+        <values>
+            <value>Bug</value>
+            <value>Epic</value>
+            <value>Task</value>
+            <value>Exception</value>
+            <value>Feature</value>
+            <value>Cosmetics</value>
+            <value>Performance Problem</value>
+            <value>Usability Problem</value>
+        </values>
+        <name>ВАТСType01222c92-663a-44ff-ad3a-7766dab6d258</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/ownedFieldBundle/">
+        <values>
+            <value>Backend</value>
+            <value>Frontend</value>
+            <value>Android</value>
+            <value>IOS</value>
+        </values>
+        <name>Видеонаблюдение: Subsystems</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/bundle/">
+        <values>
+            <value>Blocked</value>
+            <value>Ready to pull</value>
+        </values>
+        <name>ВидеонаблюдениеKanban State21149d7f-05f0-4fff-8af2-8f3685592709</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/stateBundle/">
+        <values>
+            <value>Backlog</value>
+            <value>Develop</value>
+            <value>Review</value>
+            <value>Test</value>
+            <value>Staging</value>
+            <value>Done</value>
+        </values>
+        <name>ВидеонаблюдениеStageae75bd30-fb34-4396-90b4-70102dc93920</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/versionBundle/">
+        <values>
+            <value>Неделя 11</value>
+            <value>Неделя 12</value>
+            <value>Неделя 13</value>
+            <value>2018.04 [02-06]</value>
+            <value>2018.04 [09-13]</value>
+            <value>2018.04 [16-20]</value>
+            <value>2018.04 [23-28]</value>
+            <value>2018.05 [03-11]</value>
+            <value>2018.05 [14-18]</value>
+            <value>2018.05 [21-25]</value>
+            <value>2018.05 [28-01]</value>
+            <value>2018.06 [04-09]</value>
+            <value>2018.06 [13-15]</value>
+            <value>2018.06 [18-22]</value>
+            <value>2018.06 [25-29]</value>
+            <value>2018.07 [02-06]</value>
+            <value>2018.07 [09-13]</value>
+            <value>2018.07 [16-20]</value>
+            <value>2018.07 [23-27]</value>
+            <value>2018.07 [30-03]</value>
+        </values>
+        <name>ТСЖ-онлайн: Sprintses</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/ownedFieldBundle/">
+        <values/>
+        <name>ТСЖ-онлайн: Subsystems</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/versionBundle/">
+        <values/>
+        <name>ТСЖ-онлайн: Versions</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/ownedFieldBundle/">
+        <values/>
+        <name>Техотдел: Subsystems</name>
+    </bundle>
+    <bundle restPath="/admin/customfield/versionBundle/">
+        <values/>
+        <name>Техотдел: Versions</name>
+    </bundle>
+    <type xsi:type="primitiveType" name="blob" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <type xsi:type="primitiveType" name="boolean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <type xsi:type="primitiveType" name="dateTime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <type xsi:type="primitiveType" name="float" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <type xsi:type="primitiveType" name="instant" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <type xsi:type="primitiveType" name="int" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <type xsi:type="primitiveType" name="long" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <type xsi:type="primitiveType" name="period" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <type xsi:type="primitiveType" name="string" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <type xsi:type="primitiveType" name="text" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <type xsi:type="primitiveType" name="void" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <type xsi:type="class" name="Agile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="findSprintByName">
+                <returnTypeRef type="Sprint">
+                    <cardinality name="0..1"/>
+                    <myTypeName>Sprint</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>name</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="Field" name="creator" readOnly="true">
+                <typeRef type="User">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="name" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="sprints" readOnly="true">
+                <typeRef type="Sprint">
+                    <cardinality name="0..*"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="BaseComment" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members/>
+    </type>
+    <type xsi:type="class" name="BaseWorkItem" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="isUsingMarkdown">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="setUsingMarkdown">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>value</name>
+                    <typeReference type="boolean">
+                        <cardinality name="0..1"/>
+                        <myTypeName>boolean</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="Field" name="author" readOnly="true">
+                <typeRef type="User">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="created" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="creator" readOnly="true">
+                <typeRef type="User">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="description" readOnly="false">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="type" readOnly="true">
+                <typeRef type="WorkItemType">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="updated" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="Build" superClass="Field" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="getPresentation">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="assembleDate" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="colorIndex" readOnly="true">
+                <typeRef type="int">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="description" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="name" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="ordinal" readOnly="true">
+                <typeRef type="int">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="BundleProjectCustomField" superClass="ProjectCustomField" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="findValueByName">
+                <returnTypeRef type="Field">
+                    <cardinality name="0..1"/>
+                    <myTypeName>Field</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>name</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="findValueByOrdinal">
+                <returnTypeRef type="Field">
+                    <cardinality name="0..1"/>
+                    <myTypeName>Field</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>ordinal</name>
+                    <typeReference type="int">
+                        <cardinality name="0..1"/>
+                        <myTypeName>int</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getBackgroundColor">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getForegroundColor">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getLocalizedName">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getName">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getValuePresentation">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getValues">
+                <returnTypeRef type="Field">
+                    <cardinality name="0..*"/>
+                    <myTypeName>Field</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="nullValueText" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="ChangesProcessor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="Field" name="server" readOnly="true">
+                <typeRef type="VcsServer">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="DeletedUser" superClass="SystemUser" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="isBanned">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="email" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="fullName" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="login" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="EnumField" superClass="LocalizableField" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="getPresentation">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="colorIndex" readOnly="true">
+                <typeRef type="int">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="description" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="name" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="ordinal" readOnly="true">
+                <typeRef type="int">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="ExternalServiceUser" superClass="SuperUser" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="isBanned">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="email" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="fullName" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="login" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="Field" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="getBackgroundColor">
+                <returnTypeRef type="string">
+                    <cardinality name="1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getForegroundColor">
+                <returnTypeRef type="string">
+                    <cardinality name="1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getPresentation">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="colorIndex" readOnly="true">
+                <typeRef type="int">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="description" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="name" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="ordinal" readOnly="true">
+                <typeRef type="int">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="GroupProjectCustomField" superClass="ProjectCustomField" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="findValueByName">
+                <returnTypeRef type="UserGroup">
+                    <cardinality name="0..1"/>
+                    <myTypeName>UserGroup</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>name</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getBackgroundColor">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getForegroundColor">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getLocalizedName">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getName">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getValuePresentation">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getValues">
+                <returnTypeRef type="UserGroup">
+                    <cardinality name="0..*"/>
+                    <myTypeName>UserGroup</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="defaultValues" readOnly="false">
+                <typeRef type="UserGroup">
+                    <cardinality name="0..*"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="nullValueText" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="ImportUser" superClass="SuperUser" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="isBanned">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="email" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="fullName" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="login" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="Issue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="addComment">
+                <returnTypeRef type="IssueComment">
+                    <cardinality name="0..1"/>
+                    <myTypeName>IssueComment</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>text</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="addComment">
+                <returnTypeRef type="IssueComment">
+                    <cardinality name="0..1"/>
+                    <myTypeName>IssueComment</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>text</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>author</name>
+                    <typeReference type="User">
+                        <cardinality name="0..1"/>
+                        <myTypeName>User</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="addHttpFormField">
+                <returnTypeRef type="void">
+                    <cardinality name="1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>key</name>
+                    <typeReference type="string">
+                        <cardinality name="1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>value</name>
+                    <typeReference type="string">
+                        <cardinality name="1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="addHttpHeader">
+                <returnTypeRef type="void">
+                    <cardinality name="1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>key</name>
+                    <typeReference type="string">
+                        <cardinality name="1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>value</name>
+                    <typeReference type="string">
+                        <cardinality name="1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="addHttpRequestUrlParameter">
+                <returnTypeRef type="void">
+                    <cardinality name="1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>key</name>
+                    <typeReference type="string">
+                        <cardinality name="1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>value</name>
+                    <typeReference type="string">
+                        <cardinality name="1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="addTag">
+                <returnTypeRef type="IssueTag">
+                    <cardinality name="0..1"/>
+                    <myTypeName>IssueTag</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>name</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="addWorkItem">
+                <returnTypeRef type="IssueWorkItem">
+                    <cardinality name="0..1"/>
+                    <myTypeName>IssueWorkItem</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>description</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>date</name>
+                    <typeReference type="instant">
+                        <cardinality name="0..1"/>
+                        <myTypeName>instant</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>author</name>
+                    <typeReference type="User">
+                        <cardinality name="0..1"/>
+                        <myTypeName>User</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>duration</name>
+                    <typeReference type="int">
+                        <cardinality name="0..1"/>
+                        <myTypeName>int</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>type</name>
+                    <typeReference type="WorkItemType">
+                        <cardinality name="0..1"/>
+                        <myTypeName>WorkItemType</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="applyCommand">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>command</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="applyCommand">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>command</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>runAs</name>
+                    <typeReference type="User">
+                        <cardinality name="0..1"/>
+                        <myTypeName>User</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="becomesReported">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="becomesResolved">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="becomesUnresolved">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="clearAttachments">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="copy">
+                <returnTypeRef type="Issue">
+                    <cardinality name="1"/>
+                    <myTypeName>Issue</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>project</name>
+                    <typeReference type="Project">
+                        <cardinality name="1"/>
+                        <myTypeName>Project</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="copy">
+                <returnTypeRef type="Issue">
+                    <cardinality name="1"/>
+                    <myTypeName>Issue</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="doHttpDelete">
+                <returnTypeRef type="string">
+                    <cardinality name="1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>url</name>
+                    <typeReference type="string">
+                        <cardinality name="1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="doHttpGet">
+                <returnTypeRef type="string">
+                    <cardinality name="1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>url</name>
+                    <typeReference type="string">
+                        <cardinality name="1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="doHttpPost">
+                <returnTypeRef type="string">
+                    <cardinality name="1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>url</name>
+                    <typeReference type="string">
+                        <cardinality name="1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>payload</name>
+                    <typeReference type="string">
+                        <cardinality name="1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="doHttpPut">
+                <returnTypeRef type="string">
+                    <cardinality name="1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>url</name>
+                    <typeReference type="string">
+                        <cardinality name="1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>payload</name>
+                    <typeReference type="string">
+                        <cardinality name="1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getDuplicateRoot">
+                <returnTypeRef type="Issue">
+                    <cardinality name="0..1"/>
+                    <myTypeName>Issue</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getEditedComments">
+                <returnTypeRef type="IssueComment">
+                    <cardinality name="0..*"/>
+                    <myTypeName>IssueComment</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getEditedWorkItems">
+                <returnTypeRef type="IssueWorkItem">
+                    <cardinality name="0..*"/>
+                    <myTypeName>IssueWorkItem</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getId">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getNotificationEmail">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getPeriodFieldOldValueInMinutes">
+                <returnTypeRef type="int">
+                    <cardinality name="0..1"/>
+                    <myTypeName>int</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>fieldName</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getPeriodFieldValueInMinutes">
+                <returnTypeRef type="int">
+                    <cardinality name="0..1"/>
+                    <myTypeName>int</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>fieldName</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getUrl">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getVcsChanges">
+                <returnTypeRef type="VcsChange">
+                    <cardinality name="0..*"/>
+                    <myTypeName>VcsChange</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getWorkItems">
+                <returnTypeRef type="IssueWorkItem">
+                    <cardinality name="0..*"/>
+                    <myTypeName>IssueWorkItem</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="hasTag">
+                <returnTypeRef type="boolean">
+                    <cardinality name="1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>tagName</name>
+                    <typeReference type="string">
+                        <cardinality name="1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="isReported">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="isResolved">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="isStarred">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="isUsingMarkdown">
+                <returnTypeRef type="boolean">
+                    <cardinality name="1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="removeTag">
+                <returnTypeRef type="IssueTag">
+                    <cardinality name="0..1"/>
+                    <myTypeName>IssueTag</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>name</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="sendMail">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>fromPersonal</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>fromEmail</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>email</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>cc</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>subject</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>body</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="sendMail">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>email</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>cc</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>subject</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>body</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="sendMail">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>email</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>subject</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>body</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="setPeriodFieldValueInMinutes">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>fieldName</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>value</name>
+                    <typeReference type="int">
+                        <cardinality name="0..1"/>
+                        <myTypeName>int</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="setUsingMarkdown">
+                <returnTypeRef type="void">
+                    <cardinality name="1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>value</name>
+                    <typeReference type="boolean">
+                        <cardinality name="1"/>
+                        <myTypeName>boolean</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="wikify">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>text</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="wikify">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>text</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>usingMarkdown</name>
+                    <typeReference type="boolean">
+                        <cardinality name="0..1"/>
+                        <myTypeName>boolean</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="Field" name="attachments" readOnly="true">
+                <typeRef type="IssueAttachment">
+                    <cardinality name="0..*"/>
+                    <myTypeName>IssueAttachment</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="comments" readOnly="true">
+                <typeRef type="IssueComment">
+                    <cardinality name="0..*"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="created" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="1"/>
+                    <myTypeName>instant</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="description" readOnly="false">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="duplicateCluster" readOnly="true">
+                <typeRef type="long">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="numberInProject" readOnly="true">
+                <typeRef type="long">
+                    <cardinality name="1"/>
+                    <myTypeName>long</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="permittedGroup" readOnly="false">
+                <typeRef type="UserGroup">
+                    <cardinality name="0..1"/>
+                    <myTypeName>UserGroup</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="permittedGroups" readOnly="false">
+                <typeRef type="UserGroup">
+                    <cardinality name="0..*"/>
+                    <myTypeName>UserGroup</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="permittedUsers" readOnly="false">
+                <typeRef type="User">
+                    <cardinality name="0..*"/>
+                    <myTypeName>User</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="project" readOnly="false">
+                <typeRef type="Project">
+                    <cardinality name="1"/>
+                    <myTypeName>Project</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="reporter" readOnly="true">
+                <typeRef type="User">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="resolved" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="sprints" readOnly="false">
+                <typeRef type="Sprint">
+                    <cardinality name="0..*"/>
+                    <myTypeName>Sprint</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="summary" readOnly="false">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="tags" readOnly="false">
+                <typeRef type="IssueTag">
+                    <cardinality name="0..*"/>
+                    <myTypeName>IssueTag</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="updated" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="1"/>
+                    <myTypeName>instant</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="updatedBy" readOnly="true">
+                <typeRef type="User">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="votes" readOnly="true">
+                <typeRef type="int">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="IssueAttachment" superClass="PersistentFile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="Field" name="author" readOnly="true">
+                <typeRef type="User">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="created" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="issue" readOnly="true">
+                <typeRef type="Issue">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="metaData" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="permittedGroup" readOnly="false">
+                <typeRef type="UserGroup">
+                    <cardinality name="0..1"/>
+                    <myTypeName>UserGroup</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="permittedGroups" readOnly="false">
+                <typeRef type="UserGroup">
+                    <cardinality name="0..*"/>
+                    <myTypeName>UserGroup</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="permittedUsers" readOnly="false">
+                <typeRef type="User">
+                    <cardinality name="0..*"/>
+                    <myTypeName>User</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="removed" readOnly="true">
+                <typeRef type="boolean">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="updated" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="IssueComment" superClass="BaseComment" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="delete">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getUrl">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="isUsingMarkdown">
+                <returnTypeRef type="boolean">
+                    <cardinality name="1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="setUsingMarkdown">
+                <returnTypeRef type="void">
+                    <cardinality name="1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>value</name>
+                    <typeReference type="boolean">
+                        <cardinality name="1"/>
+                        <myTypeName>boolean</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="Field" name="author" readOnly="true">
+                <typeRef type="User">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="created" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="issue" readOnly="true">
+                <typeRef type="Issue">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="permittedGroup" readOnly="false">
+                <typeRef type="UserGroup">
+                    <cardinality name="0..1"/>
+                    <myTypeName>UserGroup</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="permittedGroups" readOnly="false">
+                <typeRef type="UserGroup">
+                    <cardinality name="0..*"/>
+                    <myTypeName>UserGroup</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="permittedUsers" readOnly="false">
+                <typeRef type="User">
+                    <cardinality name="0..*"/>
+                    <myTypeName>User</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="text" readOnly="false">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="updated" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="updatedBy" readOnly="true">
+                <typeRef type="User">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="IssueLinkPrototype" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members/>
+    </type>
+    <type xsi:type="class" name="IssueTag" superClass="WatchFolder" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="getShareGroup">
+                <returnTypeRef type="UserGroup">
+                    <cardinality name="0..1"/>
+                    <myTypeName>UserGroup</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getUpdateShareGroup">
+                <returnTypeRef type="UserGroup">
+                    <cardinality name="0..1"/>
+                    <myTypeName>UserGroup</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="name" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="owner" readOnly="true">
+                <typeRef type="User">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="IssueWorkItem" superClass="BaseWorkItem" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="Field" name="author" readOnly="true">
+                <typeRef type="User">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="created" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="creator" readOnly="true">
+                <typeRef type="User">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="date" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="description" readOnly="false">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="duration" readOnly="false">
+                <typeRef type="int">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="type" readOnly="true">
+                <typeRef type="WorkItemType">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="updated" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="LocalizableField" superClass="Field" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="getPresentation">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="colorIndex" readOnly="true">
+                <typeRef type="int">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="description" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="name" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="ordinal" readOnly="true">
+                <typeRef type="int">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="OwnedField" superClass="Field" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="getPresentation">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="colorIndex" readOnly="true">
+                <typeRef type="int">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="description" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="name" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="ordinal" readOnly="true">
+                <typeRef type="int">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="owner" readOnly="true">
+                <typeRef type="User">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="PeriodProjectCustomField" superClass="SimpleProjectCustomField" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="getBackgroundColor">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getForegroundColor">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getLocalizedName">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getName">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getValuePresentation">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="Field" name="nullValueText" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="PersistentFile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="Field" name="extension" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="name" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                    <myTypeName>string</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="size" readOnly="true">
+                <typeRef type="long">
+                    <cardinality name="1"/>
+                    <myTypeName>long</myTypeName>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="Project" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="findFieldByName">
+                <returnTypeRef type="ProjectCustomField">
+                    <cardinality name="0..1"/>
+                    <myTypeName>ProjectCustomField</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>name</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getNotificationEmail">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getTeam">
+                <returnTypeRef type="UserGroup">
+                    <cardinality name="0..1"/>
+                    <myTypeName>UserGroup</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getUser">
+                <returnTypeRef type="User">
+                    <cardinality name="0..1"/>
+                    <myTypeName>User</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>login</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="intervalToWorkingMinutes">
+                <returnTypeRef type="long">
+                    <cardinality name="0..1"/>
+                    <myTypeName>long</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>start</name>
+                    <typeReference type="long">
+                        <cardinality name="0..1"/>
+                        <myTypeName>long</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>end</name>
+                    <typeReference type="long">
+                        <cardinality name="0..1"/>
+                        <myTypeName>long</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="isArchived">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="createdBy" readOnly="true">
+                <typeRef type="User">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="description" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="fields" readOnly="true">
+                <typeRef type="ProjectCustomField">
+                    <cardinality name="0..*"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="issues" readOnly="true">
+                <typeRef type="Issue">
+                    <cardinality name="0..*"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="leader" readOnly="true">
+                <typeRef type="User">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="name" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="shortName" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="ProjectCustomField" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="becomesInvisibleInIssue">
+                <returnTypeRef type="boolean">
+                    <cardinality name="1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="becomesVisibleInIssue">
+                <returnTypeRef type="boolean">
+                    <cardinality name="1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getBackgroundColor">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getForegroundColor">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getLocalizedName">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getName">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getValuePresentation">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="isVisibleInIssue">
+                <returnTypeRef type="boolean">
+                    <cardinality name="1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="Field" name="nullValueText" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="ProjectVersion" superClass="Field" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="getPresentation">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getSprint">
+                <returnTypeRef type="Sprint">
+                    <cardinality name="0..1"/>
+                    <myTypeName>Sprint</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>project</name>
+                    <typeReference type="Project">
+                        <cardinality name="1"/>
+                        <myTypeName>Project</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="Field" name="archived" readOnly="true">
+                <typeRef type="boolean">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="colorIndex" readOnly="true">
+                <typeRef type="int">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="description" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="name" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="ordinal" readOnly="true">
+                <typeRef type="int">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="releaseDate" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="0..1"/>
+                    <myTypeName>instant</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="released" readOnly="true">
+                <typeRef type="boolean">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="SavedQuery" superClass="WatchFolder" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="getOwner">
+                <returnTypeRef type="User">
+                    <cardinality name="0..1"/>
+                    <myTypeName>User</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getShareGroup">
+                <returnTypeRef type="UserGroup">
+                    <cardinality name="0..1"/>
+                    <myTypeName>UserGroup</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getUpdateShareGroup">
+                <returnTypeRef type="UserGroup">
+                    <cardinality name="0..1"/>
+                    <myTypeName>UserGroup</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="name" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="query" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="SimpleProjectCustomField" superClass="ProjectCustomField" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="getBackgroundColor">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getForegroundColor">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getLocalizedName">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getName">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getValuePresentation">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="Field" name="nullValueText" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="Sprint" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="getName">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="isSwimlane">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="Field" name="agile" readOnly="true">
+                <typeRef type="Agile">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="archived" readOnly="true">
+                <typeRef type="boolean">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="finish" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="start" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="State" superClass="LocalizableField" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="getPresentation">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="colorIndex" readOnly="true">
+                <typeRef type="int">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="description" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="isResolved" readOnly="true">
+                <typeRef type="boolean">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="name" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="ordinal" readOnly="true">
+                <typeRef type="int">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="SuperUser" superClass="User" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="isBanned">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="email" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="fullName" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="login" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="SystemUser" superClass="SuperUser" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="isBanned">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="email" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="fullName" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="login" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="TeamcityUser" superClass="SuperUser" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="isBanned">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="email" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="fullName" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="login" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="User" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="canUnvoteIssue">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="canVoteIssue">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="createNewIssue">
+                <returnTypeRef type="Issue">
+                    <cardinality name="1"/>
+                    <myTypeName>Issue</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>projectShortName</name>
+                    <typeReference type="string">
+                        <cardinality name="1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getSharedTag">
+                <returnTypeRef type="IssueTag">
+                    <cardinality name="0..1"/>
+                    <myTypeName>IssueTag</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>name</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getTag">
+                <returnTypeRef type="IssueTag">
+                    <cardinality name="0..1"/>
+                    <myTypeName>IssueTag</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>name</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>createIfNotExists</name>
+                    <typeReference type="boolean">
+                        <cardinality name="0..1"/>
+                        <myTypeName>boolean</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getTimeZoneId">
+                <returnTypeRef type="string">
+                    <cardinality name="1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getVisibleName">
+                <returnTypeRef type="string">
+                    <cardinality name="1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="hasRole">
+                <returnTypeRef type="boolean">
+                    <cardinality name="1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>roleName</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="hasRole">
+                <returnTypeRef type="boolean">
+                    <cardinality name="1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>roleName</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>project</name>
+                    <typeReference type="Project">
+                        <cardinality name="1"/>
+                        <myTypeName>Project</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="isBanned">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="isInGroup">
+                <returnTypeRef type="boolean">
+                    <cardinality name="1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>groupName</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="notify">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>subject</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>body</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="notify">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>subject</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>body</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>ignoreNotifyOnOwnChangesSetting</name>
+                    <typeReference type="boolean">
+                        <cardinality name="0..1"/>
+                        <myTypeName>boolean</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="notify">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>subject</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>body</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>ignoreNotifyOnOwnChangesSetting</name>
+                    <typeReference type="boolean">
+                        <cardinality name="0..1"/>
+                        <myTypeName>boolean</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>project</name>
+                    <typeReference type="Project">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Project</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="sendJabber">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>message</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="sendMail">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>subject</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>body</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="unvoteIssue">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="unwatchIssue">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="voteIssue">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="watchIssue">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="Field" name="email" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="fullName" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="login" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="UserGroup" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="getUsers">
+                <returnTypeRef type="User">
+                    <cardinality name="0..*"/>
+                    <myTypeName>User</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="notifyAllUsers">
+                <returnTypeRef type="void">
+                    <cardinality name="0..1"/>
+                    <myTypeName>void</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>subject</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+                <parameters>
+                    <name>body</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="Field" name="addNewUser" readOnly="true">
+                <typeRef type="boolean">
+                    <cardinality name="1"/>
+                    <myTypeName>boolean</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="allUsersGroup" readOnly="true">
+                <typeRef type="boolean">
+                    <cardinality name="1"/>
+                    <myTypeName>boolean</myTypeName>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="description" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="name" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="UserProjectCustomField" superClass="ProjectCustomField" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="findValueByLogin">
+                <returnTypeRef type="User">
+                    <cardinality name="0..1"/>
+                    <myTypeName>User</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>login</name>
+                    <typeReference type="string">
+                        <cardinality name="0..1"/>
+                        <myTypeName>string</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getBackgroundColor">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getForegroundColor">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getLocalizedName">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getName">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getValuePresentation">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+                <parameters>
+                    <name>issue</name>
+                    <typeReference type="Issue">
+                        <cardinality name="0..1"/>
+                        <myTypeName>Issue</myTypeName>
+                    </typeReference>
+                </parameters>
+            </member>
+            <member xsi:type="method" name="getValues">
+                <returnTypeRef type="User">
+                    <cardinality name="0..*"/>
+                    <myTypeName>User</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="defaultUsers" readOnly="true">
+                <typeRef type="User">
+                    <cardinality name="0..*"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="nullValueText" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="VcsChange" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="getChangesProcessors">
+                <returnTypeRef type="ChangesProcessor">
+                    <cardinality name="0..*"/>
+                    <myTypeName>ChangesProcessor</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getText">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="branch" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="date" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="fetched" readOnly="true">
+                <typeRef type="instant">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="id" readOnly="true">
+                <typeRef type="long">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="user" readOnly="true">
+                <typeRef type="User">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="userName" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="version" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="VcsServer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="Field" name="url" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="WatchFolder" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="getName">
+                <returnTypeRef type="string">
+                    <cardinality name="0..1"/>
+                    <myTypeName>string</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getShareGroup">
+                <returnTypeRef type="UserGroup">
+                    <cardinality name="0..1"/>
+                    <myTypeName>UserGroup</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="method" name="getUpdateShareGroup">
+                <returnTypeRef type="UserGroup">
+                    <cardinality name="0..1"/>
+                    <myTypeName>UserGroup</myTypeName>
+                </returnTypeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="WorkItemType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="Field" name="name" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <type xsi:type="class" name="WorkflowUser" superClass="SuperUser" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <members>
+            <member xsi:type="method" name="isBanned">
+                <returnTypeRef type="boolean">
+                    <cardinality name="0..1"/>
+                    <myTypeName>boolean</myTypeName>
+                </returnTypeRef>
+            </member>
+            <member xsi:type="Field" name="email" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="fullName" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="1"/>
+                </typeRef>
+            </member>
+            <member xsi:type="Field" name="login" readOnly="true">
+                <typeRef type="string">
+                    <cardinality name="0..1"/>
+                </typeRef>
+            </member>
+        </members>
+    </type>
+    <project name="ECC DEV">
+        <field xsi:type="BundleCustomField" bundle="ECC DEVStatef8576601-f04c-45f1-b0fc-0cdabde304bc" name="State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="State">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ECC DEV: Sprints" name="Sprints" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="ProjectVersion">
+                <cardinality name="0..*"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ECC DEVTypee8b9e462-ffe2-4671-bb1b-f43abfee5181" name="Type" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Priorities" name="Priority" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Ideal days" readOnly="false">
+            <typeRef type="int">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Story points" readOnly="false">
+            <typeRef type="int">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Sender" readOnly="false">
+            <typeRef type="string">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="emp_id" readOnly="false">
+            <typeRef type="int">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Assignee" readOnly="false">
+            <typeRef type="User">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <link name="Relates" outward="relates to"/>
+        <link name="Depend" outward="is required for" inward="depends on"/>
+        <link name="Duplicate" outward="is duplicated by" inward="duplicates"/>
+        <link name="Subtask" outward="parent for" inward="subtask of"/>
+        <link name="Тип задачи" outward="Исход"/>
+    </project>
+    <project name="ECC">
+        <field xsi:type="BundleCustomField" bundle="91-22-1533826158780" name="State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="State">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ECC: Sprints" name="Sprints" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="ProjectVersion">
+                <cardinality name="0..*"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ECCTypef1554740-19a0-44c8-82e7-c409b7c4a5a8" name="Type" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="91-25-1533826229420" name="Priority" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Sender" readOnly="false">
+            <typeRef type="string">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="emp_id" readOnly="false">
+            <typeRef type="int">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Start Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Due Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Timer time" readOnly="false">
+            <typeRef type="dateTime">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Assignee" readOnly="false">
+            <typeRef type="User">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Estimation" readOnly="false">
+            <typeRef type="period">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Spent time" readOnly="false">
+            <typeRef type="period">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <link name="Relates" outward="relates to"/>
+        <link name="Depend" outward="is required for" inward="depends on"/>
+        <link name="Duplicate" outward="is duplicated by" inward="duplicates"/>
+        <link name="Subtask" outward="parent for" inward="subtask of"/>
+        <link name="Тип задачи" outward="Исход"/>
+    </project>
+    <project name="ТСЖ-онлайн">
+        <field xsi:type="BundleCustomField" bundle="ТСЖ-онлайн: Subsystems" name="Subsystem" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="OwnedField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Priorities" name="Priority" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Types" name="Type" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ECCState620cfe01-f41b-4d12-ba59-1a9cf20ce0c3" name="State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="State">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ТСЖ-онлайн: Versions" name="Fix versions" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="ProjectVersion">
+                <cardinality name="0..*"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ТСЖ-онлайн: Versions" name="Affected versions" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="ProjectVersion">
+                <cardinality name="0..*"/>
+            </typeRef>
+        </field>
+        <field name="Fixed in build" readOnly="false">
+            <typeRef type="Build">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ТСЖ-онлайн: Sprintses" name="Sprints" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="ProjectVersion">
+                <cardinality name="0..*"/>
+            </typeRef>
+        </field>
+        <field name="Sender" readOnly="false">
+            <typeRef type="string">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Due Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Start Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Assignee" readOnly="false">
+            <typeRef type="User">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Spent time" readOnly="false">
+            <typeRef type="period">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Estimation" readOnly="false">
+            <typeRef type="period">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <link name="Relates" outward="relates to"/>
+        <link name="Depend" outward="is required for" inward="depends on"/>
+        <link name="Duplicate" outward="is duplicated by" inward="duplicates"/>
+        <link name="Subtask" outward="parent for" inward="subtask of"/>
+        <link name="Тип задачи" outward="Исход"/>
+    </project>
+    <project name="ВАТС">
+        <field xsi:type="BundleCustomField" bundle="ВАТСType01222c92-663a-44ff-ad3a-7766dab6d258" name="Type" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Priorities" name="Priority" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ВАТС: Stages" name="Stage" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="State">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Due Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Start Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Assignee" readOnly="false">
+            <typeRef type="User">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Estimation" readOnly="false">
+            <typeRef type="period">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Spent time" readOnly="false">
+            <typeRef type="period">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <link name="Relates" outward="relates to"/>
+        <link name="Depend" outward="is required for" inward="depends on"/>
+        <link name="Duplicate" outward="is duplicated by" inward="duplicates"/>
+        <link name="Subtask" outward="parent for" inward="subtask of"/>
+        <link name="Тип задачи" outward="Исход"/>
+    </project>
+    <project name="Техотдел">
+        <field xsi:type="BundleCustomField" bundle="Техотдел: Subsystems" name="Subsystem" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="OwnedField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Priorities" name="Priority" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="91-40-1529920882762" name="Type" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="91-41-1529920977702" name="State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="State">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Техотдел: Versions" name="Fix versions" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="ProjectVersion">
+                <cardinality name="0..*"/>
+            </typeRef>
+        </field>
+        <field name="Due Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Start Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Assignee" readOnly="false">
+            <typeRef type="User">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Estimation" readOnly="false">
+            <typeRef type="period">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Spent time" readOnly="false">
+            <typeRef type="period">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <link name="Relates" outward="relates to"/>
+        <link name="Depend" outward="is required for" inward="depends on"/>
+        <link name="Duplicate" outward="is duplicated by" inward="duplicates"/>
+        <link name="Subtask" outward="parent for" inward="subtask of"/>
+        <link name="Тип задачи" outward="Исход"/>
+    </project>
+    <project name="Видеонаблюдение">
+        <field xsi:type="BundleCustomField" bundle="ВидеонаблюдениеKanban State21149d7f-05f0-4fff-8af2-8f3685592709" name="Kanban State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="ВидеонаблюдениеStageae75bd30-fb34-4396-90b4-70102dc93920" name="Stage" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="State">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Priorities" name="Priority" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Types" name="Type" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Видеонаблюдение: Subsystems" name="Subsystem" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="OwnedField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Assignee" readOnly="false">
+            <typeRef type="User">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <link name="Relates" outward="relates to"/>
+        <link name="Depend" outward="is required for" inward="depends on"/>
+        <link name="Duplicate" outward="is duplicated by" inward="duplicates"/>
+        <link name="Subtask" outward="parent for" inward="subtask of"/>
+        <link name="Тип задачи" outward="Исход"/>
+    </project>
+    <project name="IPTV">
+        <field xsi:type="BundleCustomField" bundle="IPTVKanban Stateac7b1d59-d5b9-4d67-84b8-b4ce54b1ee8c" name="Kanban State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="IPTVStage2b27ae37-320f-404f-aaf9-ff942398b692" name="Stage" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="State">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Priorities" name="Priority" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Assignee" readOnly="false">
+            <typeRef type="User">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <link name="Relates" outward="relates to"/>
+        <link name="Depend" outward="is required for" inward="depends on"/>
+        <link name="Duplicate" outward="is duplicated by" inward="duplicates"/>
+        <link name="Subtask" outward="parent for" inward="subtask of"/>
+        <link name="Тип задачи" outward="Исход"/>
+    </project>
+    <fieldPrototypes>
+        <field xsi:type="BundleCustomField" bundle="Versions" name="Affected versions" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="ProjectVersion">
+                <cardinality name="0..*"/>
+            </typeRef>
+        </field>
+        <field name="Assignee" readOnly="false">
+            <typeRef type="User">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Due Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="emp_id" readOnly="false">
+            <typeRef type="int">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Estimation" readOnly="false">
+            <typeRef type="period">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Versions" name="Fix versions" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="ProjectVersion">
+                <cardinality name="0..*"/>
+            </typeRef>
+        </field>
+        <field name="Fixed in build" readOnly="false">
+            <typeRef type="Build">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Ideal days" readOnly="false">
+            <typeRef type="int">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Kanban State" readOnly="false">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Priorities" name="Priority" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Sender" readOnly="false">
+            <typeRef type="string">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Spent time" readOnly="false">
+            <typeRef type="period">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Sprints" readOnly="false">
+            <typeRef type="ProjectVersion">
+                <cardinality name="0..*"/>
+            </typeRef>
+        </field>
+        <field name="Stage" readOnly="false">
+            <typeRef type="State">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Start Date" readOnly="false">
+            <typeRef type="instant">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="States" name="State" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="State">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Story points" readOnly="false">
+            <typeRef type="int">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Subsystem" readOnly="false">
+            <typeRef type="OwnedField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field name="Timer time" readOnly="false">
+            <typeRef type="dateTime">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <field xsi:type="BundleCustomField" bundle="Types" name="Type" readOnly="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <typeRef type="EnumField">
+                <cardinality name="0..1"/>
+            </typeRef>
+        </field>
+        <link name="Relates" outward="relates to"/>
+        <link name="Depend" outward="is required for" inward="depends on"/>
+        <link name="Duplicate" outward="is duplicated by" inward="duplicates"/>
+        <link name="Subtask" outward="parent for" inward="subtask of"/>
+        <link name="Тип задачи" outward="Исход"/>
+    </fieldPrototypes>
+    <group name="All Users"/>
+    <group name="CCTV group"/>
+    <group name="ECC DEV Team"/>
+    <group name="ECC DEV Team Group"/>
+    <group name="ECC Team"/>
+    <group name="IPTV Team"/>
+    <group name="Registered Users"/>
+    <group name="Reporters"/>
+    <group name="t Team"/>
+    <group name="TSG Group"/>
+    <group name="ВАТС Team"/>
+    <group name="Видеонаблюдение Team"/>
+    <group name="ЕСС Team"/>
+    <group name="Техотдел Team"/>
+    <group name="ТСЖ-онлайн Team"/>
+</instance>
